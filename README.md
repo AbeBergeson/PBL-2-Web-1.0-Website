@@ -1,0 +1,2 @@
+This is a project from the course ISOM 210 to fit the PBL project 2 requirements. This website includes a main homepage (index), multiple branch pages (about, contact, order, submit), with an interactive order sheet for a hypothetical customer to fill out.
+Some web 1.0 websites did not have an interactive order sheet, so the website also makes sure you call and confirm the phone number to ensure the order was placed
